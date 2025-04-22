@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "ElJuegoDeLaRuletaApi.Controlador.HomeController",
+    "Method": "GetNumberAndColor",
+    "RelativePath": "api/Home/getnumberandcolor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElJuegoDeLaRuletaApi.Controlador.HomeController",
+    "Method": "GetPlayerbyName",
+    "RelativePath": "api/Home/getplayerbyname/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElJuegoDeLaRuletaApi.Controlador.HomeController",
+    "Method": "GetPlayers",
+    "RelativePath": "api/Home/getplayers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ElJuegoDeLaRuletaApi.Controlador.HomeController",
+    "Method": "SavePlayer",
+    "RelativePath": "api/Home/saveplayer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entidad",
+        "Type": "ElJuegoDeLaRuletaApi.Modelos.RuletaEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

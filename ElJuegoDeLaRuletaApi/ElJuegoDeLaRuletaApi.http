@@ -1,0 +1,6 @@
+@ElJuegoDeLaRuletaApi_HostAddress = http://localhost:5107
+
+GET {{ElJuegoDeLaRuletaApi_HostAddress}}/api/home/
+Accept: application/json
+
+###
