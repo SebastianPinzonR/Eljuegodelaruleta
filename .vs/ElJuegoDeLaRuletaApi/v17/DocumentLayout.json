@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\sebas\\source\\repos\\ElJuegoDeLaRuletaApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{173E1C63-8E0B-41D6-A0D5-0DF81D4692F5}|ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi.csproj|c:\\users\\sebas\\source\\repos\\eljuegodelaruletaapi\\eljuegodelaruletaapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{173E1C63-8E0B-41D6-A0D5-0DF81D4692F5}|ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi.csproj|solutionrelative:eljuegodelaruletaapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{173E1C63-8E0B-41D6-A0D5-0DF81D4692F5}|ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi.csproj|c:\\users\\sebas\\source\\repos\\eljuegodelaruletaapi\\eljuegodelaruletaapi\\eljuegodelaruletaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{173E1C63-8E0B-41D6-A0D5-0DF81D4692F5}|ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi.csproj|solutionrelative:eljuegodelaruletaapi\\eljuegodelaruletaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,7 +86,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi\\.gitignore",
+              "RelativeDocumentMoniker": "ElJuegoDeLaRuletaApi\\.gitignore",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi\\.gitignore",
+              "RelativeToolTip": "ElJuegoDeLaRuletaApi\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-22T15:08:52.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi\\Controlador\\HomeController.cs",
               "RelativeDocumentMoniker": "ElJuegoDeLaRuletaApi\\Controlador\\HomeController.cs",
@@ -90,12 +107,11 @@
               "RelativeToolTip": "ElJuegoDeLaRuletaApi\\Controlador\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAQwA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T01:43:15.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T01:43:15.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IRuleta.cs",
               "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi\\Services\\IRuleta.cs",
               "RelativeDocumentMoniker": "ElJuegoDeLaRuletaApi\\Services\\IRuleta.cs",
@@ -103,12 +119,11 @@
               "RelativeToolTip": "ElJuegoDeLaRuletaApi\\Services\\IRuleta.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAUwBEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T01:32:12.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T01:32:12.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "INumberAndColor.cs",
               "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi\\Services\\INumberAndColor.cs",
               "RelativeDocumentMoniker": "ElJuegoDeLaRuletaApi\\Services\\INumberAndColor.cs",
@@ -116,12 +131,11 @@
               "RelativeToolTip": "ElJuegoDeLaRuletaApi\\Services\\INumberAndColor.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAmwAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T01:27:51.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T01:27:51.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RuletaEntity.cs",
               "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi\\Modelos\\RuletaEntity.cs",
               "RelativeDocumentMoniker": "ElJuegoDeLaRuletaApi\\Modelos\\RuletaEntity.cs",
@@ -129,12 +143,11 @@
               "RelativeToolTip": "ElJuegoDeLaRuletaApi\\Modelos\\RuletaEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T01:24:51.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T01:24:51.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi\\Controlador\\DataContext.cs",
               "RelativeDocumentMoniker": "ElJuegoDeLaRuletaApi\\Controlador\\DataContext.cs",
@@ -142,12 +155,11 @@
               "RelativeToolTip": "ElJuegoDeLaRuletaApi\\Controlador\\DataContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T01:16:13.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T01:16:13.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ElJuegoDeLaRuletaApi.http",
               "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi.http",
               "RelativeDocumentMoniker": "ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi.http",
@@ -160,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "20250416144025_Ruletas.cs",
               "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi\\Migrations\\20250416144025_Ruletas.cs",
               "RelativeDocumentMoniker": "ElJuegoDeLaRuletaApi\\Migrations\\20250416144025_Ruletas.cs",
@@ -168,12 +180,11 @@
               "RelativeToolTip": "ElJuegoDeLaRuletaApi\\Migrations\\20250416144025_Ruletas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T14:40:26.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T14:40:26.513Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi\\appsettings.json",
               "RelativeDocumentMoniker": "ElJuegoDeLaRuletaApi\\appsettings.json",
@@ -181,12 +192,11 @@
               "RelativeToolTip": "ElJuegoDeLaRuletaApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-09T21:58:07.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T21:58:07.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ElJuegoDeLaRuletaApi\\Properties\\launchSettings.json",
@@ -194,12 +204,11 @@
               "RelativeToolTip": "ElJuegoDeLaRuletaApi\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-15T00:51:54.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T00:51:54.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi\\Program.cs",
               "RelativeDocumentMoniker": "ElJuegoDeLaRuletaApi\\Program.cs",
@@ -207,12 +216,11 @@
               "RelativeToolTip": "ElJuegoDeLaRuletaApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T22:04:34.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T22:04:34.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ElJuegoDeLaRuletaApi.csproj",
               "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi.csproj",
               "RelativeDocumentMoniker": "ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi.csproj",
@@ -224,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ElJuegoDeLaRuletaApi",
               "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi.csproj",
               "RelativeDocumentMoniker": "ElJuegoDeLaRuletaApi\\ElJuegoDeLaRuletaApi.csproj",
